@@ -6,11 +6,10 @@ Join the secret RSS club (https://kevq.uk/rss-club/)! Engage with your most loya
 With this plugin you can mark a blog post to appear in the feeds only. It won\'t appear on the main blog page, the archives or in the search results. 
 
 ## Requirements
-* Working NPM installations
+* Working NPM installation.
 
 ## Installation
-This plugin contains a widget for the "new" Gutenberg Block Editor. So it's necessary to install a ton of npm
-modules and compile the JavaScript file because it uses Ract:
+This plugin contains a widget for the "new" Gutenberg Block Editor. So it's necessary to install a ton of npm modules and compile the JavaScript file because it uses React:
 
 * npm install
 * npm run build
