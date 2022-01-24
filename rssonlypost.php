@@ -3,7 +3,7 @@
  * Plugin Name: 	  RSS Only Posts
  * Tags: 			  feed, rss
  * Description:  	  Display posts only in the feed.
- * Version: 		  0.1
+ * Version: 		  0.2
  * License: 		  GPLv2
  * Requires at least: 5.8
  * Tested up to: 	  5.8
