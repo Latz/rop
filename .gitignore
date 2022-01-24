@@ -1,7 +1,9 @@
 node_modules
 .DS_Store
 .idea/
+tools/
 vendor/
-package-lock
+package-lock.json
 composer-lock.json
 .babelrc
+.dccache
